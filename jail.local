@@ -1,3 +1,8 @@
+[DEFAULT]
+bantime = 10m
+findtime = 10m
+maxretry = 5
+
 # Configuration d’un jail pour nginx
 [nginx-http-auth]
 enabled  = true
